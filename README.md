@@ -1,2 +1,2 @@
 # app1 - App1
-> Business Application
+> My Business Application
